@@ -1,4 +1,4 @@
-## Hi there 👋
+## It is Rishi!
 
 <!--
 **rm3hta/rm3hta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
